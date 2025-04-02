@@ -5,5 +5,5 @@ Assignment repository for UNT CSCE1015
 maa0866
 
 ## Favorite Linux Command
-shh
+ssh
 
