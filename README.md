@@ -7,3 +7,4 @@ maa0866
 ## Favorite Linux Command
 ssh
 
+## EUID
